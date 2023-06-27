@@ -109,6 +109,7 @@ This page lists all the individual contributions to the project by their author.
   - Upgrade logic to allow altering of SpySat status
   - Ares detection and integration
   - Help with custom locomotors
+  - Type conversion on Technotypes based on promotion fix
 - **FS-21**:
   - Dump Object Info enhancements
   - `Powered.KillSpawns`
